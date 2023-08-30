@@ -15,18 +15,32 @@
 🍿 Abaixo está todos os links úteis<br>
 🧙 esse é um belo mago
 
-## Usando o GIT
+## Clonando um repositório no GIT
 Primeiro crie uma pasta, e acesse ela usando o terminal
 
 ```
 // dir = exibi o diretório
 dir
 
-// cd = navega entre as páginas 
+// cd = navega entre as pastas 
 cd Desktop
 
 // mkdir = cria a pasta
 mkdir pastaTeste
+```
 
+Clonando um repositório para a pasta, acesse a pasta
+```
 cd pastaTeste
-``` 
+```
+
+Agora acesso o repositório e copie o link
+<br>
+![print](https://github.com/FIAP-ADS/.github/assets/63440926/7548cad1-d35c-4ea9-a578-44909dee7ea5)
+<br>
+```
+git clone [https://](https://github.com/FIAP-ADS/.github.git)https://github.com/FIAP-ADS/.github.git
+```
+Pronto, o repositório já esta na sua máquina!
+
+##
