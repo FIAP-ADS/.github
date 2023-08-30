@@ -13,5 +13,20 @@
 🌈 Para quem quiser contribuir com o projeto fale com o Henrique Furtado <br>
 👩‍💻 Se estiver com dúvida converse com qualquer um dos administradores <br>
 🍿 Abaixo está todos os links úteis<br>
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 esse é um belo mago
 
+## Usando o GIT
+Primeiro crie uma pasta, e acesse ela usando o terminal
+
+```
+// dir = exibi o diretório
+dir
+
+// cd = navega entre as páginas 
+cd Desktop
+
+// mkdir = cria a pasta
+mkdir pastaTeste
+
+cd pastaTeste
+``` 
