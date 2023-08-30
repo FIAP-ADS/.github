@@ -43,4 +43,29 @@ git clone [https://](https://github.com/FIAP-ADS/.github.git)https://github.com/
 ```
 Pronto, o repositório já esta na sua máquina!
 
-##
+## Subindo um repositório para o GIT
+Como padrão estamos usando o VSCode, abra seu projeto no VSCode usando // Não funciona no mac, nesse caso arraste a pasta para dentro do VScode
+```
+code .
+```
+Para subir 1 único arquivo, informe o nome do arquivo
+```
+git add index.html
+```
+Para subir todos os arquivos coloque o ( . ) ao invés do nome do arquivo
+```
+git add .
+```
+Veja o status dos seus arquivos, o git status mostra os arquivos que foram alterados
+```
+git status
+```
+utilize os commits, o commit é importante para informar o que está sendo alterado
+```
+git commit -m "Informe o que está sendo alterado aqui"
+```
+E agora para subir para o repositório principal (MAIN)
+```
+git push origin main
+```
+
