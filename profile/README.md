@@ -3,12 +3,12 @@
 **Esse é um repositório para que todos possam se ajudar com códigos, anotações, discussões e tudo o que surgir por ai...**
 
 🙋‍♀️ Repositórios das aulas:  
-  - [Software Design e TX](https://iae.com) - Prof: Gabriela Salomão
-  - [Domain Driven Design](https://iae.com) - Prof: Rafael Desiderio
-  - [Responsive Web Development](https://iae.com) - Prof: Thiago Brito
-  - [Computational Thinking US](https://iae.com) - Prof: Arnaldo 
-  - [Relational Database](https://iae.com) - Prof: Francisco Douglas
-  - [AI & Chatbot](https://iae.com) - Prof: Eduardo Soares
+  - [Software Design e TX](https://drive.google.com/drive/folders/19TAJuOUpKEPdvFsmnOxUmpVWdT1julkg?usp=drive_link) - Prof: Gabriela Salomão
+  - [Domain Driven Design](https://drive.google.com/drive/folders/1kq2fEkuLnd00Wan_Ql8HTs6MotodUu1V?usp=drive_link) - Prof: Rafael Desiderio
+  - [Responsive Web Development](https://drive.google.com/drive/folders/1bR8JCOlnuiWd8Df1DWIERfRUsQPz11hi?usp=drive_link) - Prof: Thiago Brito
+  - [Computational Thinking US](https://drive.google.com/drive/folders/1MzDyKI5p3AOH9RRIA7AFI4Ri9NylZxKy?usp=drive_link) - Prof: Arnaldo 
+  - [Relational Database](https://drive.google.com/drive/folders/1DKNfUcyK8bIkNSQ-KoZMWLwbF9A0-6z3?usp=drive_link) - Prof: Francisco Douglas
+  - [AI & Chatbot](https://drive.google.com/drive/folders/1oKUJF7ZBBy2qBLV72pmcfTBQeT1q4pDg?usp=drive_link) - Prof: Eduardo Soares
 <br>
 🌈 Para quem quiser contribuir com o projeto fale com o Henrique Furtado <br>
 👩‍💻 Se estiver com dúvida converse com qualquer um dos administradores <br>
